@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ahiresrushti01-dot/ipldashboard.github.io/static/css/main.9493d1a6.css",
+    "main.css": "/ahiresrushti01-dot/ipldashboard.github.io/static/css/main.5eb526b4.css",
     "main.js": "/ahiresrushti01-dot/ipldashboard.github.io/static/js/main.182f6687.js",
     "index.html": "/ahiresrushti01-dot/ipldashboard.github.io/index.html",
-    "main.9493d1a6.css.map": "/ahiresrushti01-dot/ipldashboard.github.io/static/css/main.9493d1a6.css.map",
+    "main.5eb526b4.css.map": "/ahiresrushti01-dot/ipldashboard.github.io/static/css/main.5eb526b4.css.map",
     "main.182f6687.js.map": "/ahiresrushti01-dot/ipldashboard.github.io/static/js/main.182f6687.js.map"
   },
   "entrypoints": [
-    "static/css/main.9493d1a6.css",
+    "static/css/main.5eb526b4.css",
     "static/js/main.182f6687.js"
   ]
 }
